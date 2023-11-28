@@ -1,11 +1,8 @@
 Attribute VB_Name = "Module1"
 Sub Stockanalysis()
 
-
-      
         Dim tickername As String
-    
-    
+
         Dim tickervolume As Double
         tickervolume = 0
 
